@@ -1,0 +1,2 @@
+rootProject.name = "PlantixMockTest"
+include ':app'
