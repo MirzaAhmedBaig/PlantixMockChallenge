@@ -1,9 +1,8 @@
-name: Check
+name: CI
 
 on:
   push:
-    branches:
-      - main
+    branches: [ master ]
 
 jobs:
   build:
